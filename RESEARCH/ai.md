@@ -1,0 +1,26 @@
+# ai
+
+> 22 links
+
+- [redditors for hire](https://www.reddit.com/r/forhire/)
+- [Home - Metamoderna](https://metamoderna.org/)
+- [What's one ChatGPT tip you wish you'd known sooner? : r/ChatGPT](https://www.reddit.com/r/ChatGPT/comments/1g3hz9i/whats_one_chatgpt_tip_you_wish_youd_known_sooner/)
+- [Reddit - Dive into anything](https://www.reddit.com/r/ChatGPTJailbreak/wiki/index/)
+- [Surveys - Google Sheets](https://docs.google.com/spreadsheets/d/1-lPOI83f3tRwPeRZQklk3GXP52xSeASLGYvt85I2SW8/edit?gid=0#gid=0)
+- [Make](https://us2.make.com/organization/2199111/dashboard)
+- [Add-ons selection | Zapier](https://zapier.com/app/planbuilder/add-ons?chatbots=chatbots-premium&redirectUrl=https%3A%2F%2Fzapier.com%2Fapp%2Fchatbots%2Fcm2ew7bei00030jl5adcm2apg%3Ft%3D1)
+- [Write a Complete Book in One Click | Snack Prompt](https://snackprompt.com/prompt/write-a-complete-book-in-one-click-13)
+- [Library - Anthropic](https://docs.anthropic.com/en/prompt-library/library)
+- [ChatGPT Prompts | Sell or Buy Prompts for ChatGPT - PromptsIdeas](https://promptsideas.com/market/type-chatgpt)
+- [NirDiamant/Prompt_Engineering: This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essential resource for mastering the art of effectively communicating with and leveraging large language models in AI applications.](https://github.com/NirDiamant/Prompt_Engineering)
+- [This ChatGPT 80-20 rule is mind blowing [prompts and ChatGPT cheat sheet in comment!!!] : r/EnhancerAI](https://www.reddit.com/r/EnhancerAI/comments/196yqg5/this_chatgpt_8020_rule_is_mind_blowing_prompts/)
+- [Act as an Article Summarizer - GPTBot](https://gptbot.io/chatgpt-prompts/act-as-an-article-summarizer/)
+- [About GitHub Codespaces prebuilds - GitHub Docs](https://docs.github.com/en/codespaces/prebuilding-your-codespaces/about-github-codespaces-prebuilds)
+- [ai-boost/awesome-prompts: Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect. Advanced Prompt Engineering papers.](https://github.com/ai-boost/awesome-prompts)
+- [Runpod | The cloud built for AI](https://www.runpod.io/)
+- [Best ChatGPT Prompts Database | 100+ AI Prompts for Writing, Business & More](https://www.prompthackers.co/)
+- [ChatGPT 4o for Beginners: Create Social Media Content](https://www.coursera.org/projects/chatgpt-beginners)
+- [Mathematical notation](https://en.wikipedia.org/wiki/Mathematical_notation)
+- [Critical path method](https://en.wikipedia.org/wiki/Critical_path_method)
+- [Noether's theorem](https://en.wikipedia.org/wiki/Noether%27s_theorem)
+- [Notebooks – colab.google](https://colab.google/notebooks/)
